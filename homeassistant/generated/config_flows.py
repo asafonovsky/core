@@ -20,6 +20,7 @@ FLOWS = [
     "airtouch4",
     "airvisual",
     "alarmdecoder",
+    "alexs_test_integration",
     "almond",
     "ambee",
     "amberelectric",

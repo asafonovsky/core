@@ -1,0 +1,15 @@
+{
+  "domain": "alexs_test_integration",
+  "name": "hello_world",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/alexs_test_integration",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@asafonovsky"
+  ],
+  "iot_class": "local_push"
+}
