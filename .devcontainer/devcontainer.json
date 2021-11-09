@@ -13,6 +13,9 @@
     "redhat.vscode-yaml",
     "esbenp.prettier-vscode"
   ],
+  "mounts": [
+    "source=${localEnv:DOCKER_SHARE},target=/workspaces/share,type=bind,consistency=cached",
+  ],
   // Please keep this file in sync with settings in home-assistant/.vscode/settings.default.json
   "settings": {
     "python.pythonPath": "/usr/local/bin/python",
